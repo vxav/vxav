@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Xavier
 
-<!--
-**vxav/vxav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I work as a **Solutions Architect at Giant Swarm** where I build managed Kubernetes platforms and help customers figure out how to best make use of them.
 
-Here are some ideas to get you started:
+After being a VMware engineer for several years I decided to transition to the Cloud Native world where I specialise on Kubernetes infrastructure and architecture. My work involves a healthy mix of pre-sales, customer success, operations, site reliability engineering at times and some platform engineering wherever I can help.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I am tinkerer who likes (somehow ends up) learning about all sorts of things. I took an interest in smart home tech which for me is the perfect mix of DIY and tech (overengineering it really).*
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/avrillier/) 💼
+- [Twitter / X](https://twitter.com/xavieravrillier) 🐦
+- [Blog](https://vxav.fr) 🌐
+- [Email](mailto:contact@vxav.fr)
