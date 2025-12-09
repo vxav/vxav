@@ -10,12 +10,12 @@
 
 ## Talks
 
-- **2025-11 🇺🇸 KubeCon NA, Atlanta, USA**<br>Kubernetes at the Edge – Come see It In Action !
-- **2025-10 🏴󠁧󠁢󠁳󠁣󠁴󠁿 KCD UK, Edinburgh, UKA**<br>[Kubernetes at the Edge – Come see It In Action !](https://www.youtube.com/watch?v=6P0XkbqydSo&list=PLbP_zR6U6eHL9DVKT98lHLWgMRCcOe-Wz)
-- **2025-10 🇵🇱 KCD Warsaw, Warsaw, Poland**<br>Kubernetes at the Edge – Come see It In Action !
+- **2025-11 🇺🇸 KubeCon NA, Atlanta, USA**<br>[Kubernetes at the Edge – Come see It In Action !](https://youtu.be/Wn1rE1MzZmk?si=uliCTFx6hj7Xf3ny)
+- **2025-10 🏴󠁧󠁢󠁳󠁣󠁴󠁿 KCD UK, Edinburgh, UKA**<br>[Kubernetes at the Edge – Come see It In Action !](https://www.youtube.com/watch?v=6P0XkbqydSo)
+- **2025-10 🇵🇱 KCD Warsaw, Warsaw, Poland**<br>[Kubernetes at the Edge – Come see It In Action !](https://youtu.be/XYCOPGILCms?si=YkWGry3yOEHf4NbB)
 - **2025-10 🇳🇴 Cloud Native Nordics, Aahrus, Norway**<br>Kubernetes at the Edge – Come see It In Action !
 - **2025-07 🇩🇪 Cloud Native Summit, Münich, Germany**<br>[Bringing Cloud-Native Agility to Bare-Metal Kubernetes with Cluster API & Metal³](https://www.youtube.com/watch?v=XYCOPGILCms)
-- **2025-06 🇮🇹 Cloud Native Days Italy, Bologna**<br>Bringing Cloud-Native Agility to Bare-Metal Kubernetes with Cluster API & Metal³
+- **2025-06 🇮🇹 Cloud Native Days Italy, Bologna**<br>[Bringing Cloud-Native Agility to Bare-Metal Kubernetes with Cluster API & Metal³](https://youtu.be/UvTHZr6oFx4?si=sNG442FoygDZf7p7)
 - **2024-11 🇪🇸 VMware Explore, Barcelona, Spain**<br>[K8s at Scale: The Superhero's Guide to Cloud-Native Mastery](https://www.youtube.com/watch?v=Mrk8EUT_qYE)
 
 ---
