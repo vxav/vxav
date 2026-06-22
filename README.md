@@ -10,6 +10,8 @@
 
 ## Talks
 
+- **2026-09 🇩🇪 Container Days, Hamburg, Germany**<br>From Frankenstein to Kamaji: Lessons in Building a Single CAPI Cluster Across Multiple Providers
+- **2026-06 🇩🇪 Cloud Native Summit, Münich, Germany**<br>From Frankenstein to Kamaji: Lessons in Building a Single CAPI Cluster Across Multiple Providers
 - **2025-11 🇺🇸 KubeCon NA, Atlanta, USA**<br>[Kubernetes at the Edge – Come see It In Action !](https://youtu.be/Wn1rE1MzZmk?si=uliCTFx6hj7Xf3ny)
 - **2025-10 🏴󠁧󠁢󠁳󠁣󠁴󠁿 KCD UK, Edinburgh, UKA**<br>[Kubernetes at the Edge – Come see It In Action !](https://www.youtube.com/watch?v=6P0XkbqydSo)
 - **2025-10 🇵🇱 KCD Warsaw, Warsaw, Poland**<br>[Kubernetes at the Edge – Come see It In Action !](https://youtu.be/XYCOPGILCms?si=YkWGry3yOEHf4NbB)
