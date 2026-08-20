@@ -11,12 +11,12 @@
 ## Talks
 
 - **2026-09 🇩🇪 Container Days, Hamburg, Germany**<br>From Frankenstein to Kamaji: Lessons in Building a Single CAPI Cluster Across Multiple Providers
-- **2026-06 🇩🇪 Cloud Native Summit, Münich, Germany**<br>From Frankenstein to Kamaji: Lessons in Building a Single CAPI Cluster Across Multiple Providers
-- **2026-02 🇬🇧 Container Days, London, UK**<br>Kubernetes at the Edge – Come see It In Action !
+- **2026-06 🇩🇪 Cloud Native Summit, Münich, Germany**<br>[From Frankenstein to Kamaji: Lessons in Building a Single CAPI Cluster Across Multiple Providers](https://youtu.be/Jb9JO4_nG88?si=ZZ7OQNu_0nJOVakY)
+- **2026-02 🇬🇧 Container Days, London, UK**<br>Kubernetes at the Edge – Come see It In Action ! (not recorded)
 - **2025-11 🇺🇸 KubeCon NA, Atlanta, USA**<br>[Kubernetes at the Edge – Come see It In Action !](https://youtu.be/Wn1rE1MzZmk?si=uliCTFx6hj7Xf3ny)
 - **2025-10 🏴󠁧󠁢󠁳󠁣󠁴󠁿 KCD UK, Edinburgh, UK**<br>[Kubernetes at the Edge – Come see It In Action !](https://www.youtube.com/watch?v=6P0XkbqydSo)
 - **2025-10 🇵🇱 KCD Warsaw, Warsaw, Poland**<br>[Kubernetes at the Edge – Come see It In Action !](https://youtu.be/XYCOPGILCms?si=YkWGry3yOEHf4NbB)
-- **2025-10 🇳🇴 Cloud Native Nordics, Aahrus, Norway**<br>Kubernetes at the Edge – Come see It In Action !
+- **2025-10 🇳🇴 Cloud Native Nordics, Aahrus, Norway**<br>Kubernetes at the Edge – Come see It In Action ! (not recorded)
 - **2025-07 🇩🇪 Cloud Native Summit, Münich, Germany**<br>[Bringing Cloud-Native Agility to Bare-Metal Kubernetes with Cluster API & Metal³](https://www.youtube.com/watch?v=XYCOPGILCms)
 - **2025-06 🇮🇹 Cloud Native Days Italy, Bologna**<br>[Bringing Cloud-Native Agility to Bare-Metal Kubernetes with Cluster API & Metal³](https://youtu.be/UvTHZr6oFx4?si=sNG442FoygDZf7p7)
 - **2024-11 🇪🇸 VMware Explore, Barcelona, Spain**<br>[K8s at Scale: The Superhero's Guide to Cloud-Native Mastery](https://www.youtube.com/watch?v=Mrk8EUT_qYE)
