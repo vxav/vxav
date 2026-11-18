@@ -10,7 +10,7 @@
 
 ## Talks
 
-- **2026-10 🇳🇴 Cloud Native Days, Bergen, Norway**<br>[From Frankenstein to Kamaji: Lessons in Building a Single CAPI Cluster Across Multiple Providers](youtube.com/watch?v=6L5YReYa04U&themeRefresh=1)
+- **2026-10 🇳🇴 Cloud Native Days, Bergen, Norway**<br>[From Frankenstein to Kamaji: Lessons in Building a Single CAPI Cluster Across Multiple Providers](https://www.youtube.com/watch?v=6L5YReYa04U&themeRefresh=1)
 - **2026-09 🇩🇪 Container Days, Hamburg, Germany**<br>[From Frankenstein to Kamaji: Lessons in Building a Single CAPI Cluster Across Multiple Providers](https://www.youtube.com/watch?v=OnmaQMqxTSQ)
 - **2026-06 🇩🇪 Cloud Native Summit, Münich, Germany**<br>[From Frankenstein to Kamaji: Lessons in Building a Single CAPI Cluster Across Multiple Providers](https://youtu.be/Jb9JO4_nG88?si=ZZ7OQNu_0nJOVakY)
 - **2026-02 🇬🇧 Container Days, London, UK**<br>Kubernetes at the Edge – Come see It In Action ! (not recorded)
